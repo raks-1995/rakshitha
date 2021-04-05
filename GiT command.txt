@@ -1,0 +1,23 @@
+
+
+  19 git init
+  20 git config user.email"rrakshitha810@gmail.com"
+  21 git config user.name"rakshitha"
+  22 git add.
+  23 git add .
+  24 git commit -m "Intial commit"
+  25 git config --global user.email "rrakshitha810@gmail.com"        
+  26  git config --global user.name "raks-1995"
+  27 git commit -m "Inital Commit"
+  28 git remote add origin https://github.com/raks-1995/rakshitha...
+  29 push -u origin master
+  30 git push -u origin master
+  31 git push -u origin master
+  32 git status
+  33 git add .
+  34 git status
+  35 aws configure
+  36 terraform plan
+  37 aws configure
+  38 terraform plan
+  39 terraform apply
